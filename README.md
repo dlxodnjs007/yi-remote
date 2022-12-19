@@ -1,2 +1,2 @@
 # yi-remote
-from 7 node
+from 6 & 7 node
